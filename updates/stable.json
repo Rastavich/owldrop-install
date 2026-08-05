@@ -1,4 +1,4 @@
-{"schemaVersion":1,"version":"0.5.5","channel":"stable","name":"Taildrop 0.5.5","publishedAt":"2026-08-05T02:30:14Z","artifacts":[
-{"url":"https://raw.githubusercontent.com/Rastavich/taildrop-install/main/updates/tailscale-drop-windows-amd64.exe","filename":"tailscale-drop-windows-amd64.exe","filetype":"exe","platform":"windows","arch":"amd64","size":15547392,"digestAlgo":"sha256","digest":"5MFxOs9grJrFnKCjbKGaRalAyExb2VfOR+5qHgHJ3wo="},
-{"url":"https://raw.githubusercontent.com/Rastavich/taildrop-install/main/updates/tailscale-drop-darwin-amd64.zip","filename":"tailscale-drop-darwin-amd64.zip","filetype":"zip","platform":"darwin","arch":"amd64","size":5266680,"digestAlgo":"sha256","digest":"6HzDyG/SLBBS34nH0KXOVXXksl8886AJ0JqzJjfaD9U="}
+{"schemaVersion":1,"version":"0.5.6","channel":"stable","name":"Taildrop 0.5.6","publishedAt":"2026-08-05T10:48:44Z","artifacts":[
+{"url":"https://raw.githubusercontent.com/Rastavich/taildrop-install/main/updates/tailscale-drop-windows-amd64.exe","filename":"tailscale-drop-windows-amd64.exe","filetype":"exe","platform":"windows","arch":"amd64","size":15547392,"digestAlgo":"sha256","digest":"W3MEc5JV7P4FvGFS3fRWPnmlZM8BvQm7EMB9He7wnMY="},
+{"url":"https://raw.githubusercontent.com/Rastavich/taildrop-install/main/updates/tailscale-drop-darwin-amd64.zip","filename":"tailscale-drop-darwin-amd64.zip","filetype":"zip","platform":"darwin","arch":"amd64","size":5266684,"digestAlgo":"sha256","digest":"ktyrJDponfeBEjbjFyifuo6cCQtkG8bD5TKyT/8mD0A="}
 ]}

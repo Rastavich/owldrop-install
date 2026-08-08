@@ -1,4 +1,4 @@
-{"schemaVersion":1,"version":"0.6.2","channel":"stable","name":"Owldrop 0.6.2","publishedAt":"2026-08-08T04:05:26Z","artifacts":[
-{"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-windows-amd64.exe","filename":"owldrop-windows-amd64.exe","filetype":"exe","platform":"windows","arch":"amd64","size":15539200,"digestAlgo":"sha256","digest":"/vf9cQ/GUw53HBgEPAl/Je5zgY3TNrKCoawYCkFq/Ho="},
-{"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-darwin-amd64.zip","filename":"owldrop-darwin-amd64.zip","filetype":"zip","platform":"darwin","arch":"amd64","size":5294513,"digestAlgo":"sha256","digest":"91cR+o1ra+lPe0oya3i3C+jXhf+rAuAyR/EpVcgeHmI="}
+{"schemaVersion":1,"version":"0.6.4","channel":"stable","name":"Owldrop 0.6.4","publishedAt":"2026-08-08T10:24:03Z","artifacts":[
+{"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-windows-amd64.exe","filename":"owldrop-windows-amd64.exe","filetype":"exe","platform":"windows","arch":"amd64","size":15539712,"digestAlgo":"sha256","digest":"B5O6r8t3IJVln1C8R3TDK8NXjMH4rZB2hOj28nFnPio="},
+{"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-darwin-amd64.zip","filename":"owldrop-darwin-amd64.zip","filetype":"zip","platform":"darwin","arch":"amd64","size":5295115,"digestAlgo":"sha256","digest":"zTjJ6PlwrMOKMm6tZj4rSnaSVc1nEzcA/mcTdyeY5pA="}
 ]}

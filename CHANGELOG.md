@@ -8,6 +8,25 @@ The `release` workflow turns the newest section below into the GitHub release
 notes and publishes this file to the public install repository, where
 <https://owldrop.app/changelog> renders it. Keep the newest entry on top.
 
+## [Unreleased]
+
+### Fixed
+
+- **Global shortcut no longer hijacks Ctrl+Shift+T** — every browser uses
+  Ctrl+Shift+T to reopen a closed tab, and Owldrop registering it globally
+  stole that key system-wide (reported on Linux Mint: Vivaldi and Edge both
+  opened Owldrop instead). The default is now **Ctrl+Alt+O**, and the
+  shortcut is configurable in Settings → Shortcuts — it re-registers live,
+  no restart needed.
+
+## [0.9.0]
+
+### Added
+
+- **Agent MCP (tailnet)** — Streamable HTTP MCP on `/mcp` for tailnet agents:
+  inbox, send, Sync, and drop links via a dedicated bearer token (off by
+  default). Public Funnel URLs do not expose MCP.
+
 ## [0.8.0]
 
 ### Added

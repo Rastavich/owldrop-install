@@ -1,8 +1,9 @@
 # owldrop-install
 
 Binary install for the **Owldrop** desktop app (Tailscale file sharing).
-The application source lives in a private repository — this repo contains
-only the built binary and its Nix wrapper.
+The application source lives in the public repo
+[github.com/Rastavich/owldrop](https://github.com/Rastavich/owldrop) — this
+repo contains only the built binary and its Nix wrapper.
 
 ## Install (NixOS, x86_64-linux)
 
@@ -25,8 +26,8 @@ nix profile upgrade owldrop-install
 ## How this repo works
 
 - `owldrop-drop` — the raw binary, replaced on each release by CI in the
-  private source repo.
+  source repo.
 - `flake.nix` — wraps the binary in an FHS environment (WebKitGTK 6.0, GTK4,
   Noto fonts) so it runs on NixOS without system-wide GTK/WebKit.
-- The deb/rpm builds for other distros are published on the private repo's
-  release page; contact the author for access.
+- The deb/rpm builds for other distros are published on the source repo's
+  [release page](https://github.com/Rastavich/owldrop/releases).

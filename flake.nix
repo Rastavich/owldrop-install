@@ -1,11 +1,11 @@
 # owldrop-install — binary-only distribution of the owldrop desktop app.
 #
-# The Go source stays in a private repo; this repo ships just the built
-# binary (owldrop-drop at the repo root, replaced on each release) plus a
-# thin Nix wrapper: an FHS environment providing WebKitGTK 6.0, GTK4, and the
-# bundled fonts the binary needs at runtime.
+# The Go source lives at github.com/Rastavich/owldrop; this repo ships just
+# the built binary (owldrop-drop at the repo root, replaced on each release)
+# plus a thin Nix wrapper: an FHS environment providing WebKitGTK 6.0, GTK4,
+# and the bundled fonts the binary needs at runtime.
 {
-  description = "Owldrop desktop app — binary install for NixOS (source stays private)";
+  description = "Owldrop desktop app — binary install for NixOS (source: github.com/Rastavich/owldrop)";
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 

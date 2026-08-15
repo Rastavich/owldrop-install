@@ -12,7 +12,8 @@ nix profile install github:Rastavich/owldrop-install
 ```
 
 then run `owldrop-drop` (it appears in the tray; close-to-tray and the
-Ctrl+Shift+T shortcut work as usual).
+global shortcut — Ctrl+Alt+O by default, configurable in Settings — work as
+usual).
 
 Requirements: a running `tailscaled` (the app talks to your local Tailscale
 daemon — install Tailscale first).

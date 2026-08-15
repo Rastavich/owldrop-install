@@ -1,5 +1,5 @@
-{"schemaVersion":1,"version":"0.9.0","channel":"stable","name":"Owldrop 0.9.0","publishedAt":"2026-08-15T12:20:36Z","artifacts":[
+{"schemaVersion":1,"version":"0.9.0","channel":"stable","name":"Owldrop 0.9.0","publishedAt":"2026-08-15T12:32:39Z","artifacts":[
 {"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-windows-amd64.exe","filename":"owldrop-windows-amd64.exe","filetype":"exe","platform":"windows","arch":"amd64","size":15838208,"digestAlgo":"sha256","digest":"EUEzdr4//MfnL5NozYSmCGCQ8Mrjkkk10RynKS3smjI="},
-{"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-darwin-universal.zip","filename":"owldrop-darwin-universal.zip","filetype":"zip","platform":"darwin","arch":"amd64","size":11355866,"digestAlgo":"sha256","digest":"Hw3+NxJMcLxmoXhFoC7aKwBdUEjyZzLt1Rm46R3Z+AQ="},
-{"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-darwin-universal.zip","filename":"owldrop-darwin-universal.zip","filetype":"zip","platform":"darwin","arch":"arm64","size":11355866,"digestAlgo":"sha256","digest":"Hw3+NxJMcLxmoXhFoC7aKwBdUEjyZzLt1Rm46R3Z+AQ="}
+{"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-darwin-universal.zip","filename":"owldrop-darwin-universal.zip","filetype":"zip","platform":"darwin","arch":"amd64","size":11355866,"digestAlgo":"sha256","digest":"FEk4XRy9LXkM3MkuVJB/TSWSF3wM2hC0/+kIsUZYJhQ="},
+{"url":"https://raw.githubusercontent.com/Rastavich/owldrop-install/main/updates/owldrop-darwin-universal.zip","filename":"owldrop-darwin-universal.zip","filetype":"zip","platform":"darwin","arch":"arm64","size":11355866,"digestAlgo":"sha256","digest":"FEk4XRy9LXkM3MkuVJB/TSWSF3wM2hC0/+kIsUZYJhQ="}
 ]}
